@@ -1,4 +1,4 @@
-🌱🔋 Electric Vehicle Data Analysis with Tableau! 🚗⚡
+# **🌱🔋 Electric Vehicle Data Analysis with Tableau! 🚗⚡**
 
 Excited to share my latest Tableau dashboard, where I analyzed electric vehicle (EV) data to uncover key insights about adoption trends, vehicle types, and state-wise distribution. 🚀📊
 
@@ -12,6 +12,7 @@ Excited to share my latest Tableau dashboard, where I analyzed electric vehicle 
 📊 Why Tableau?
 This dashboard transforms raw EV data into interactive insights, helping understand market trends, adoption patterns, and the future of sustainable transportation.
 
-🚀 Let’s connect! I’d love to hear your thoughts and feedback. Drop a comment if you’re working on a similar project!
-
 #Tableau #DataAnalytics #EV #Sustainability #DataVisualization #MachineLearning
+
+## **Output**
+![Screenshot (167)](https://github.com/user-attachments/assets/df42280e-6e3e-4997-ad26-d3cdf53d2c16)
